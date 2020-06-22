@@ -21,9 +21,11 @@ organizations:
 bio: Lorem.
 
 interests:
-- Lorem
-- Lorem
-- Lorem
+- Science and Technology Studies
+- Critical Data Studies
+- Data Ethics
+- Health Informatics
+- Scientometrics
 
 education:
   courses:
@@ -81,6 +83,4 @@ user_groups:
 
 I am an Assistant Professor at Nottingham University Business School. I received my PhD from The University of Nottingham in 2011 and have recently completed a Marie Skodowska-Curie Fellowship on the social, technical and ethical challenges of national programmes in big data in healthcare.
 
-My research focuses on science and technology studies of big data from electronic health records in the context of national health systems.
-
-I am also interested in data ethics, health informatics and scientometrics.
+My research focuses on science and technology studies of information technology and big data from electronic health records in the context of national health systems.
