@@ -45,7 +45,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-  
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.gr/citations?hl=en&user=3oTNG98AAAAJ&view_op=list_works&sortby=pubdate
@@ -55,14 +54,13 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/paravez
-  
-  - icon: twitter
+- icon: twitter
   icon_pack: fab
   link: https://twitter.com/paravezy
   - icon: facebook-f
   icon_pack: fab
   link: https://www.facebook.com/paraskevas.vezyridis/
-  - icon: linkedin-in
+- icon: linkedin-in
   icon_pack: fab
   link: https://www.linkedin.com/in/paravezy/
 # Link to a PDF of your resume/CV from the About widget.
