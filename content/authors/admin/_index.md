@@ -57,7 +57,7 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/paravezy
-  - icon: facebook-f
+- icon: facebook-f
   icon_pack: fab
   link: https://www.facebook.com/paraskevas.vezyridis/
 - icon: linkedin-in
