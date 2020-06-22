@@ -93,7 +93,7 @@ email = "Paraskevas dot Vezyridis at nottingham dot ac dot uk"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "North Building, Jubilee Campus, Wollaton Street", city = "Nottingham", postcode = "NG8 1BB", country = "United Kingdom", country_code = "UK"}
+address = {street = "North Building, Jubilee Campus, Wollaton Street", city = "Nottingham", postcode = "NG8 1BB", country = "United Kingdom", country_code = "UK", link = "https://goo.gl/maps/oeRDUZZHus9BVhMq9"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
