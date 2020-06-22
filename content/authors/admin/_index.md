@@ -61,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "paraskevas.vezyeidis@hotmail.co.uk"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -70,7 +70,7 @@ user_groups:
 - Visitors
 ---
 
-I am an Assistant Professor at Nottingham University Business School. I received his PhD from The University of Nottingham in 2011 and have recently completed a Marie Skodowska-Curie Fellowship on the social, technical and ethical challenges of national programmes in big data in healthcare.
+I am an Assistant Professor at Nottingham University Business School. I received my PhD from The University of Nottingham in 2011 and have recently completed a Marie Skodowska-Curie Fellowship on the social, technical and ethical challenges of national programmes in big data in healthcare.
 
 My research focuses on science and technology studies of big data from electronic health records in the context of national health systems.
 
