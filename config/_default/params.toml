@@ -112,7 +112,7 @@ coordinates = {latitude = "52.9527672", longitude = "-1.1887862,17"}
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  # {icon = "email", icon_pack = "fab", name = "Paraskevas dot Vezyridis at nottingham dot ac dot uk"},
+  {icon = "email", icon_pack = "fab"},
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/paravezy"},
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
