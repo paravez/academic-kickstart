@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Para Vezyridis
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Nottingham University Business School
+  url: "https://www.nottingham.ac.uk/business/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Lorem.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Lorem
+- Lorem
+- Lorem
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD 
+    institution: University of Nottingham
+    year: 2011
+  - course: MSc (Dist.) Health Informatics 
+    institution: City, University of London
+    year: 2006
+  - course: BSc 
+    institution: 
+    year: 2001
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,13 +47,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/paravezy
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.gr/citations?hl=en&user=3oTNG98AAAAJ&view_op=list_works&sortby=pubdate
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/paravez
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +70,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an Assistant Professor at Nottingham University Business School. I received his PhD from The University of Nottingham in 2011 and have recently completed a Marie Skodowska-Curie Fellowship on the social, technical and ethical challenges of national programmes in big data in healthcare.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research focuses on science and technology studies of big data from electronic health records in the context of national health systems.
+
+I am also interested in data ethics, health informatics and scientometrics.
