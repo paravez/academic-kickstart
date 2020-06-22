@@ -51,6 +51,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.gr/citations?hl=en&user=3oTNG98AAAAJ&view_op=list_works&sortby=pubdate
+- icon: fa-researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Paraskevas_Vezyridis
 - icon: github
   icon_pack: fab
   link: https://github.com/paravez
